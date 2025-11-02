@@ -88,73 +88,73 @@ The notebook is designed for sequential execution:
 
 ## Resources for Mathematical Learning
 
-### 1. Vecteurs et Matrices
-* https://fr.wikipedia.org/wiki/Vecteur
-* https://fr.wikipedia.org/wiki/Matrice_(mathématiques)
+### 1. Vectors and Matrices
+* https://en.wikipedia.org/wiki/Vector_(mathematics_and_physics)
+* https://en.wikipedia.org/wiki/Matrix_(mathematics)
 * https://numpy.org/doc/
 * https://courspython.com
 * https://www.bibmath.net
 
-### 2. Probabilités et Statistiques
-* https://fr.wikipedia.org/wiki/Probabilité
-* https://fr.wikipedia.org/wiki/Loi_de_probabilité
+### 2. Probability and Statistics
+* https://en.wikipedia.org/wiki/Probability
+* https://en.wikipedia.org/wiki/Probability_distribution
 * https://www.mathsbook.fr
 * https://www.pierre-giraud.com
 * https://openclassrooms.com
 
-### 3. Variables indépendantes
-* https://fr.wikipedia.org/wiki/Indépendance_(probabilités)
+### 3. Independent Variables
+* https://en.wikipedia.org/wiki/Independence_(probability_theory)
 * https://www.alloprof.qc.ca
 * https://openclassrooms.com
 
-### 4. Espérance, Variance, Écart-type
-* https://fr.wikipedia.org/wiki/Espérance_mathématique
-* https://fr.wikipedia.org/wiki/Variance_(mathématiques)
-* https://fr.wikipedia.org/wiki/Écart_type
+### 4. Expected Value, Variance, Standard Deviation
+* https://en.wikipedia.org/wiki/Expected_value
+* https://en.wikipedia.org/wiki/Variance
+* https://en.wikipedia.org/wiki/Standard_deviation
 * https://www.superprof.fr
 * https://www.mathsbook.fr
 * https://www.alloprof.qc.ca
 
-### 5. Corrélation linéaire
-* https://fr.wikipedia.org/wiki/Corrélation_(statistiques)
+### 5. Linear Correlation
+* https://en.wikipedia.org/wiki/Correlation
 * https://www.statology.org
 * https://openclassrooms.com
 * https://realpython.com
 
-### 6. Moyenne, Médiane, Maximum, Minimum
-* https://fr.wikipedia.org/wiki/Moyenne
-* https://fr.wikipedia.org/wiki/Médiane_(statistiques)
+### 6. Mean, Median, Maximum, Minimum
+* https://en.wikipedia.org/wiki/Mean
+* https://en.wikipedia.org/wiki/Median
 * https://numpy.org/doc/
 * https://www.w3schools.com
 * https://realpython.com
 
 ### 7. Quartiles
-* https://fr.wikipedia.org/wiki/Quartile
+* https://en.wikipedia.org/wiki/Quartile
 * https://www.alloprof.qc.ca
 * https://numpy.org/doc/
 * https://realpython.com
 
-### 8. Boxplot (Diagramme en boîte)
-* https://fr.wikipedia.org/wiki/Boîte_à_moustaches
+### 8. Boxplot (Box-and-Whisker Plot)
+* https://en.wikipedia.org/wiki/Box_plot
 * https://matplotlib.org
 * https://seaborn.pydata.org
 * https://www.python-graph-gallery.com
 * https://realpython.com
 
-### 9. Histogramme
-* https://fr.wikipedia.org/wiki/Histogramme
+### 9. Histogram
+* https://en.wikipedia.org/wiki/Histogram
 * https://matplotlib.org
 * https://www.python-graph-gallery.com
 * https://realpython.com
 
-### 10. Théorème Central Limite
-* https://fr.wikipedia.org/wiki/Théorème_central_limite
+### 10. Central Limit Theorem
+* https://en.wikipedia.org/wiki/Central_limit_theorem
 * https://openclassrooms.com
 * https://machinelearnia.com
 * https://www.superprof.fr
 
-### 11. Dérivées
-* https://fr.wikipedia.org/wiki/Dérivée
+### 11. Derivatives
+* https://en.wikipedia.org/wiki/Derivative
 * https://www.bibmath.net
 * https://www.mathsbook.fr
 * https://docs.sympy.org
@@ -167,17 +167,16 @@ The notebook is designed for sequential execution:
 * https://colab.research.google.com
 * https://deepnote.com
 
-### NumPy (Calculs mathématiques)
+### NumPy (Mathematical Computing)
 * https://numpy.org/doc/
 * https://www.w3schools.com
 
-### Pandas (Analyse de données)
+### Pandas (Data Analysis)
 * https://pandas.pydata.org
 * https://www.w3schools.com
 * https://realpython.com
 
-### Matplotlib & Seaborn (Visualisation)
+### Matplotlib & Seaborn (Data Visualization)
 * https://matplotlib.org
 * https://seaborn.pydata.org
 * https://realpython.com
-```
