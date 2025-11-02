@@ -1,4 +1,3 @@
-```markdown
 # Philomathia - Mathematical and Statistical Concepts
 
 ## Description
