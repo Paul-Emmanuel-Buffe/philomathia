@@ -12,8 +12,6 @@ This project contains an educational Jupyter notebook presenting fundamental con
 ## Project Structure
 
 ```
-
-.
 ├── README.md
 ├── docs/                 # Additional documentation
 └── notebooks/
@@ -67,7 +65,6 @@ pip install -r requirements.txt
 # Launch Jupyter Notebook
 jupyter notebook
 ````
-
 Then open `notebooks/philomathia_final.ipynb` and execute cells sequentially.
 
 ## Usage
@@ -75,7 +72,7 @@ Then open `notebooks/philomathia_final.ipynb` and execute cells sequentially.
 The notebook is designed for sequential execution:
 
 1. Start with theoretical definitions
-2. Explore simplified explanations and analogies
+2. Explore simplified explanations and analogie
 3. Run Python code examples
 4. Analyze visualizations and outputs
 5. Complete practical exercises
